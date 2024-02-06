@@ -1,0 +1,39 @@
+Date,Time,Round,Day,Venue,Result,GF,GA,Opponent,Gls,Sh,SoT,SoT%,G/Sh,G/SoT,Dist,FK,PK,PKatt,xG,npxG,npxG/Sh,G-xG,np:G-xG,Match Report
+2022-08-06,17:30 (12:30),Matchweek 1,Sat,Away,W,1,0,Everton,1,14,5,35.7,0.00,0.00,16.1,1,1,1,1.5,0.8,0.06,-0.5,-0.8,Match Report
+2022-08-14,16:30 (11:30),Matchweek 2,Sun,Home,D,2,2,Tottenham,2,16,3,18.8,0.13,0.67,17.2,0,0,0,1.6,1.6,0.10,+0.4,+0.4,Match Report
+2022-08-21,14:00 (09:00),Matchweek 3,Sun,Away,L,0,3,Leeds United,0,14,3,21.4,0.00,0.00,19.8,0,0,0,0.9,0.9,0.06,-0.9,-0.9,Match Report
+2022-08-27,15:00 (10:00),Matchweek 4,Sat,Home,W,2,1,Leicester City,2,7,4,57.1,0.29,0.50,14.6,0,0,0,1.8,1.8,0.25,+0.2,+0.2,Match Report
+2022-08-30,19:45 (14:45),Matchweek 5,Tue,Away,L,1,2,Southampton,1,10,4,40.0,0.10,0.25,14.5,0,0,0,1.1,1.1,0.11,-0.1,-0.1,Match Report
+2022-09-03,15:00 (10:00),Matchweek 6,Sat,Home,W,2,1,West Ham,2,8,3,37.5,0.25,0.67,17.2,0,0,0,0.9,0.9,0.11,+1.1,+1.1,Match Report
+2022-10-01,15:00 (10:00),Matchweek 9,Sat,Away,W,2,1,Crystal Palace,2,13,3,23.1,0.15,0.67,14.8,0,0,0,1.1,1.1,0.09,+0.9,+0.9,Match Report
+2022-10-08,15:00 (10:00),Matchweek 10,Sat,Home,W,3,0,Wolves,3,20,7,35.0,0.15,0.43,14.7,0,0,0,1.9,1.9,0.10,+1.1,+1.1,Match Report
+2022-10-16,14:00 (09:00),Matchweek 11,Sun,Away,W,2,0,Aston Villa,2,8,4,50.0,0.25,0.50,18.0,1,0,0,0.9,0.9,0.11,+1.1,+1.1,Match Report
+2022-10-19,19:30 (14:30),Matchweek 12,Wed,Away,D,0,0,Brentford,0,14,5,35.7,0.00,0.00,21.4,0,0,0,0.9,0.9,0.06,-0.9,-0.9,Match Report
+2022-10-22,17:30 (12:30),Matchweek 13,Sat,Home,D,1,1,Manchester Utd,1,5,1,20.0,0.00,0.00,19.7,0,1,1,1.1,0.3,0.06,-0.1,-0.3,Match Report
+2022-10-29,15:00 (10:00),Matchweek 14,Sat,Away,L,1,4,Brighton,1,15,7,46.7,0.07,0.14,18.3,0,0,0,1.4,1.4,0.09,-0.4,-0.4,Match Report
+2022-11-06,12:00 (07:00),Matchweek 15,Sun,Home,L,0,1,Arsenal,0,5,1,20.0,0.00,0.00,16.0,0,0,0,0.3,0.3,0.06,-0.3,-0.3,Match Report
+2022-11-12,17:30 (12:30),Matchweek 16,Sat,Away,L,0,1,Newcastle Utd,0,5,2,40.0,0.00,0.00,14.0,0,0,0,0.3,0.3,0.06,-0.3,-0.3,Match Report
+2022-12-27,17:30 (12:30),Matchweek 17,Tue,Home,W,2,0,Bournemouth,2,15,5,33.3,0.13,0.40,15.7,0,0,0,1.8,1.8,0.12,+0.2,+0.2,Match Report
+2023-01-01,16:30 (11:30),Matchweek 18,Sun,Away,D,1,1,Nott'ham Forest,1,7,2,28.6,0.14,0.50,11.6,0,0,0,0.9,0.9,0.13,+0.1,+0.1,Match Report
+2023-01-05,20:00 (15:00),Matchweek 19,Thu,Home,L,0,1,Manchester City,0,8,2,25.0,0.00,0.00,17.2,0,0,0,0.4,0.4,0.05,-0.4,-0.4,Match Report
+2023-01-12,20:00 (15:00),Matchweek 7,Thu,Away,L,1,2,Fulham,1,20,10,50.0,0.05,0.10,16.6,1,0,0,2.1,2.1,0.11,-1.1,-1.1,Match Report
+2023-01-15,14:00 (09:00),Matchweek 20,Sun,Home,W,1,0,Crystal Palace,1,15,5,33.3,0.07,0.20,14.8,0,0,0,1.5,1.5,0.10,-0.5,-0.5,Match Report
+2023-01-21,12:30 (07:30),Matchweek 21,Sat,Away,D,0,0,Liverpool,0,11,2,18.2,0.00,0.00,13.8,0,0,0,1.6,1.6,0.15,-1.6,-1.6,Match Report
+2023-02-03,20:00 (15:00),Matchweek 22,Fri,Home,D,0,0,Fulham,0,12,2,16.7,0.00,0.00,17.0,0,0,0,1.3,1.3,0.11,-1.3,-1.3,Match Report
+2023-02-11,12:30 (07:30),Matchweek 23,Sat,Away,D,1,1,West Ham,1,12,4,33.3,0.08,0.25,18.0,2,0,0,1.1,1.1,0.10,-0.1,-0.1,Match Report
+2023-02-18,15:00 (10:00),Matchweek 24,Sat,Home,L,0,1,Southampton,0,17,4,23.5,0.00,0.00,17.0,1,0,0,1.6,1.6,0.10,-1.6,-1.6,Match Report
+2023-02-26,13:30 (08:30),Matchweek 25,Sun,Away,L,0,2,Tottenham,0,10,2,20.0,0.00,0.00,23.8,0,0,0,0.4,0.4,0.04,-0.4,-0.4,Match Report
+2023-03-04,15:00 (10:00),Matchweek 26,Sat,Home,W,1,0,Leeds United,1,13,3,23.1,0.08,0.33,15.8,1,0,0,1.5,1.5,0.11,-0.5,-0.5,Match Report
+2023-03-11,15:00 (10:00),Matchweek 27,Sat,Away,W,3,1,Leicester City,3,12,6,50.0,0.25,0.50,15.1,0,0,0,1.6,1.6,0.13,+1.4,+1.4,Match Report
+2023-03-18,17:30 (13:30),Matchweek 28,Sat,Home,D,2,2,Everton,2,19,6,31.6,0.05,0.17,17.1,0,1,1,2.3,1.5,0.08,-0.3,-0.5,Match Report
+2023-04-01,17:30 (12:30),Matchweek 29,Sat,Home,L,0,2,Aston Villa,0,27,7,25.9,0.00,0.00,16.3,0,0,0,2.1,2.1,0.08,-2.1,-2.1,Match Report
+2023-04-04,20:00 (15:00),Matchweek 8,Tue,Home,D,0,0,Liverpool,0,12,2,16.7,0.00,0.00,16.1,0,0,0,2.2,2.2,0.18,-2.2,-2.2,Match Report
+2023-04-08,15:00 (10:00),Matchweek 30,Sat,Away,L,0,1,Wolves,0,13,1,7.7,0.00,0.00,16.7,0,0,0,1.1,1.1,0.09,-1.1,-1.1,Match Report
+2023-04-15,15:00 (10:00),Matchweek 31,Sat,Home,L,1,2,Brighton,1,8,2,25.0,0.13,0.50,18.9,0,0,0,0.5,0.5,0.07,+0.5,+0.5,Match Report
+2023-04-26,19:45 (14:45),Matchweek 33,Wed,Home,L,0,2,Brentford,0,15,4,26.7,0.00,0.00,16.5,0,0,0,1.3,1.3,0.08,-1.3,-1.3,Match Report
+2023-05-02,20:00 (15:00),Matchweek 34,Tue,Away,L,1,3,Arsenal,1,7,4,57.1,0.14,0.25,17.2,0,0,0,0.8,0.8,0.11,+0.2,+0.2,Match Report
+2023-05-06,15:00 (10:00),Matchweek 35,Sat,Away,W,3,1,Bournemouth,3,11,5,45.5,0.27,0.60,16.9,0,0,0,1.3,1.3,0.12,+1.7,+1.7,Match Report
+2023-05-13,15:00 (10:00),Matchweek 36,Sat,Home,D,2,2,Nott'ham Forest,2,14,6,42.9,0.14,0.33,17.4,1,0,0,1.2,1.2,0.08,+0.8,+0.8,Match Report
+2023-05-21,16:00 (11:00),Matchweek 37,Sun,Away,L,0,1,Manchester City,0,13,6,46.2,0.00,0.00,15.7,1,0,0,1.2,1.2,0.10,-1.2,-1.2,Match Report
+2023-05-25,20:00 (15:00),Matchweek 32,Thu,Away,L,1,4,Manchester Utd,1,14,5,35.7,0.07,0.20,19.2,0,0,0,1.9,1.9,0.14,-0.9,-0.9,Match Report
+2023-05-28,16:30 (11:30),Matchweek 38,Sun,Home,D,1,1,Newcastle Utd,0,22,4,18.2,0.00,0.00,17.8,1,0,0,2.2,2.2,0.10,-2.2,-2.2,Match Report

@@ -1,0 +1,39 @@
+Date,Time,Round,Day,Venue,Result,GF,GA,Opponent,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Match Report
+2022-08-06,15:00 (10:00),Matchweek 1,Sat,Away,L,1,4,Tottenham,445,407,38,13,1,0,18,14,2,1,1,0,351,0,11,Match Report
+2022-08-13,15:00 (10:00),Matchweek 2,Sat,Home,D,2,2,Leeds United,377,328,48,12,2,5,15,25,2,1,1,0,253,1,13,Match Report
+2022-08-20,15:00 (10:00),Matchweek 3,Sat,Away,W,2,1,Leicester City,376,331,44,11,0,3,18,20,5,0,4,0,259,1,10,Match Report
+2022-08-27,12:30 (07:30),Matchweek 4,Sat,Home,L,0,1,Manchester Utd,425,369,55,15,1,5,27,29,5,1,3,0,298,1,7,Match Report
+2022-08-30,19:45 (14:45),Matchweek 5,Tue,Home,W,2,1,Chelsea,305,253,52,13,1,2,15,28,5,4,1,0,180,0,15,Match Report
+2022-09-03,15:00 (10:00),Matchweek 6,Sat,Away,L,0,1,Wolves,453,412,41,10,1,3,27,16,6,2,3,0,337,0,12,Match Report
+2022-09-16,20:00 (15:00),Matchweek 8,Fri,Away,L,0,1,Aston Villa,422,372,50,13,0,5,15,25,3,1,2,0,305,0,12,Match Report
+2022-10-01,15:00 (10:00),Matchweek 9,Sat,Home,L,1,2,Everton,506,449,57,10,0,3,27,30,7,3,3,0,402,0,13,Match Report
+2022-10-08,15:00 (10:00),Matchweek 10,Sat,Away,L,0,4,Manchester City,421,387,33,5,0,0,9,10,1,1,0,0,334,1,5,Match Report
+2022-10-16,14:00 (09:00),Matchweek 11,Sun,Home,D,1,1,West Ham,359,318,40,3,2,1,15,18,4,1,3,0,249,1,10,Match Report
+2022-10-19,19:30 (14:30),Matchweek 12,Wed,Away,W,1,0,Bournemouth,502,457,45,10,1,5,13,19,3,0,3,0,399,0,13,Match Report
+2022-10-23,14:00 (09:00),Matchweek 13,Sun,Home,D,1,1,Arsenal,404,354,46,11,1,2,20,17,9,8,1,0,302,4,7,Match Report
+2022-10-29,15:00 (10:00),Matchweek 14,Sat,Away,L,0,1,Crystal Palace,554,499,52,18,0,5,24,21,4,3,1,0,432,3,9,Match Report
+2022-11-06,14:00 (09:00),Matchweek 15,Sun,Home,L,1,4,Newcastle Utd,519,469,46,10,1,6,26,19,8,4,4,0,386,4,14,Match Report
+2022-11-12,15:00 (10:00),Matchweek 16,Sat,Away,L,1,3,Liverpool,486,444,40,8,4,3,14,17,0,0,0,0,384,2,5,Match Report
+2022-12-26,15:00 (10:00),Matchweek 17,Mon,Home,L,1,3,Brighton,377,333,44,9,1,0,16,23,4,0,4,0,287,0,9,Match Report
+2022-12-31,15:00 (10:00),Matchweek 18,Sat,Away,L,1,2,Fulham,388,336,52,8,0,1,9,30,4,3,1,0,255,0,10,Match Report
+2023-01-04,19:30 (14:30),Matchweek 19,Wed,Home,L,0,1,Nott'ham Forest,526,466,59,16,0,1,24,29,6,2,4,0,400,1,9,Match Report
+2023-01-14,15:00 (10:00),Matchweek 20,Sat,Away,W,2,1,Everton,404,362,40,8,0,2,10,16,4,3,1,0,280,2,9,Match Report
+2023-01-21,15:00 (10:00),Matchweek 21,Sat,Home,L,0,1,Aston Villa,356,314,39,9,1,3,13,16,2,0,1,1,247,3,7,Match Report
+2023-02-04,15:00 (10:00),Matchweek 22,Sat,Away,L,0,3,Brentford,465,419,44,10,0,2,18,16,4,1,1,0,339,2,10,Match Report
+2023-02-11,15:00 (10:00),Matchweek 23,Sat,Home,L,1,2,Wolves,375,322,53,17,0,4,22,24,5,1,2,0,254,0,11,Match Report
+2023-02-18,15:00 (10:00),Matchweek 24,Sat,Away,W,1,0,Chelsea,351,304,46,18,0,3,8,16,2,0,1,0,261,1,13,Match Report
+2023-02-25,15:00 (10:00),Matchweek 25,Sat,Away,L,0,1,Leeds United,376,330,43,17,0,0,10,15,2,0,1,0,285,3,12,Match Report
+2023-03-04,17:30 (12:30),Matchweek 26,Sat,Home,W,1,0,Leicester City,367,314,49,11,2,1,7,20,3,1,2,0,247,4,5,Match Report
+2023-03-12,14:00 (10:00),Matchweek 27,Sun,Away,D,0,0,Manchester Utd,491,447,42,10,3,1,22,19,8,4,2,0,396,2,14,Match Report
+2023-03-15,19:30 (15:30),Matchweek 7,Wed,Home,L,0,2,Brentford,621,576,44,10,1,2,31,22,3,2,1,0,492,1,16,Match Report
+2023-03-18,15:00 (11:00),Matchweek 28,Sat,Home,D,3,3,Tottenham,498,449,47,7,3,1,20,17,10,2,3,1,412,2,4,Match Report
+2023-04-02,14:00 (09:00),Matchweek 29,Sun,Away,L,0,1,West Ham,593,540,52,11,3,1,14,28,3,1,1,0,491,1,14,Match Report
+2023-04-08,17:30 (12:30),Matchweek 30,Sat,Home,L,1,4,Manchester City,293,262,31,12,0,0,8,10,0,0,0,0,220,0,7,Match Report
+2023-04-15,15:00 (10:00),Matchweek 31,Sat,Home,L,0,2,Crystal Palace,540,489,48,14,1,5,14,17,6,2,1,0,440,3,11,Match Report
+2023-04-21,20:00 (15:00),Matchweek 32,Fri,Away,D,3,3,Arsenal,257,210,45,10,1,1,6,11,2,0,2,0,162,2,5,Match Report
+2023-04-27,19:45 (14:45),Matchweek 33,Thu,Home,L,0,1,Bournemouth,557,498,55,13,1,5,24,25,6,1,1,0,442,4,10,Match Report
+2023-04-30,14:00 (09:00),Matchweek 34,Sun,Away,L,1,3,Newcastle Utd,332,281,49,7,3,2,5,21,2,0,2,0,226,2,12,Match Report
+2023-05-08,20:00 (15:00),Matchweek 35,Mon,Away,L,3,4,Nott'ham Forest,585,526,58,18,0,0,25,19,11,7,2,0,477,1,12,Match Report
+2023-05-13,15:00 (10:00),Matchweek 36,Sat,Home,L,0,2,Fulham,384,341,39,12,1,1,9,19,1,1,0,0,294,4,9,Match Report
+2023-05-21,14:00 (09:00),Matchweek 37,Sun,Away,L,1,3,Brighton,398,356,41,8,1,1,8,15,3,2,1,0,316,1,5,Match Report
+2023-05-28,16:30 (11:30),Matchweek 38,Sun,Home,D,4,4,Liverpool,303,261,42,9,1,2,7,16,2,0,1,0,225,0,5,Match Report

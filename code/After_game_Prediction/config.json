@@ -1,0 +1,43 @@
+{
+    "SAMPLE_URL": "https://fbref.com/en/squads/b8fd03ef/2022-2023/matchlogs/c9/shooting/Manchester-City-Match-Logs-Premier-League",
+    "PREMIER_LEAGUE_TABLE_URL": "https://fbref.com/en/comps/9/2022-2023/2022-2023-Premier-League-Stats",
+
+    "BASE_URL": "https://fbref.com",
+
+    "METRICS": {
+        "shooting": 4,
+        "keeper": 9,
+        "passing": 8,
+        "passing_types": 5,
+        "gca": 4,
+        "defense": 5,
+        "possession": 6,
+        "misc": 4
+    },
+
+    "TEAMS": {
+        "PREMIER_LEAGUE_TEAMS": [
+            "Manchester City", 
+            "Arsenal", 
+            "Manchester Utd", 
+            "Newcastle Utd", 
+            "Liverpool", 
+            "Brighton", 
+            "Aston Villa", 
+            "Tottenham", 
+            "Brentford", 
+            "Fulham", 
+            "Crystal Palace", 
+            "Chelsea", 
+            "Wolves", 
+            "West Ham", 
+            "Bournemouth", 
+            "Nott'ham Forest", 
+            "Everton", 
+            "Leicester City", 
+            "Leeds United", 
+            "Southampton"
+        ]
+    }
+
+}
