@@ -197,6 +197,8 @@ if __name__ == "__main__":
     # Testing
     # scraper.get_data("https://fbref.com/en/squads/b8fd03ef/2022-2023/matchlogs/c9/shooting/Manchester-City-Match-Logs-Premier_League", 4)
     
+    scraper.get_data("https://fbref.com/en/squads/33c895d4/2022-2023/matchlogs/c9/possession/Southampton-Match-Logs-Premier-League", scraper.metrics["possession"])
+    
     # "https://fbref.com/en/squads/b8fd03ef/2022-2023/matchlogs/c9/misc/Manchester-City-Match-Logs-Premier-League"
     
     
