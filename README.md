@@ -6,7 +6,7 @@ Patton's independent Data Analysis Project
 
 Predicting the outcome of the game with Statistics of the players / teams in a whole match.
 
-### Methods:
+### Models applied:
 
 1. Decision Tree
 2. Random Forest
@@ -85,15 +85,7 @@ This Black Box Model appears to do a job as good as the Random Forest model. I b
 
 How about using the performance of the players in the first 65 minutes to predict the outcome of the game?
 
-```
-input:
-
-```
-
-```
-output:
-outcome of the game
-```
+### TODO
 
 ## Data Sources
 
