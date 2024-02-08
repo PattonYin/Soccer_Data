@@ -32,9 +32,56 @@ These variables were excluded from the analysis as they closely mimic the goal-s
 ]
 ```
 
-These are the columns kept; stored in the `config.json` file.
+s
+These are the columns kept; stored in the `config.json` file. After Examining these variables, I determined that these variables doesn't directly reflect the scores.
 
 ### Decision Tree Model:
+
+In this decision Tree, the `Shots on Target`, `Cross`, `Average Distance of Defensive Actions from goal`, `Progressive Carrying Distance` factors seem to apprear at the upper parts of the decision tree.
+
+Applying the soccer domain understandings, I would agree that these parameters indeed seem to reflect the team's chances of winning.
+
+Thus, I wonder if it possible to apply Decision tree as a tool for exploratory analysis, because by checking the gini coefficients, we know how possibly the data could be seperated into 2 categories: that would be something similar to a regression.
+
+#### Accuracy: 0.3916083916083916
+
+This model performs just slightly better than random guessing-given there are 3 possible outcomes: Win, Draw, and Lose: probability of random guessing would be 33.33%.
+
+#### Graph:
+
+<img src="result/After_game_Prediction/Premier-League-2022-2023/decision_tree_all.png">
+
+#### Confusion Matrix:
+
+<img src="result/After_game_Prediction/Premier-League-2022-2023/confusion_matrix_decision_tree.png">
+
+In the matrix, -1 represents Lose; 0 represents Draw; 1 represents Win
+
+### Random Forest Model:
+
+#### Accuracy: 0.6153846153846154
+
+This model performs significantly better than the decision tree. My personal interpretation is that, given there are too many variables, and some of them might not matter that much. In this case, applying Random Forest helps us to pull out the significant parts of the data.
+
+But it seems that Random Forest doesn't work by pulling out the more important factors, then why can it perform much better than the decision tree???
+
+#### Confusion Matrix:
+
+<img src="result/After_game_Prediction/Premier-League-2022-2023/confusion_matrix_random_forest.png">
+
+In the matrix, -1 represents Lose; 0 represents Draw; 1 represents Win.
+
+It appears that in the Random Forest, Win / Lose cases are less likely to be mislabeled to the Draw case; while the Draw cases are more likely to be misclassified as Win / Lose.
+
+### Linear Neural Networks:
+
+#### Accuracy: 61.54%
+
+#### loss & accuracy Graph:
+
+<img src="result/After_game_Prediction/Premier-League-2022-2023/loss_acc_plot.png">
+
+This Black Box Model appears to do a job as good as the Random Forest model. I believe this neural network works by assigning weights in a proper way. I'm not sure if this interpretation is correct.
 
 ## 2. In_game_Prediction
 
