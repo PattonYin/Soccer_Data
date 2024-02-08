@@ -21,6 +21,8 @@ class DataCleanup:
             df_all = pd.DataFrame()
             for x in self.team_list:
                 df = pd.read_csv(self.folder_path + x.replace(" ", "-") + "/" + category + ".csv")
+                # Add a column with the team name to the first column
+                df.insert(0, "team_name", x)
                 df_all = pd.concat([df_all, df])
             
             file_name = output_path + "/" + category + "_all.csv"
@@ -32,11 +34,18 @@ class DataCleanup:
             team_folder = self.folder_path + team.replace(" ", "-")
             files = os.listdir(team_folder)
             print(f"there are {len(files)} files, for team: {team}.")
+            
+    def cbind(self):
+        df_all = pd.DataFrame()
+        the_path = self.folder_path + "processed"
+        for i in os.listdir(the_path):
+            df = pd.read_csv(the_path + "/" + i)
+            df_all = pd.concat([df_all, df], axis=1)
+        df_all.to_csv(the_path + "/all.csv", index=False)
 
 if __name__ == "__main__":
     data_cleanup = DataCleanup()
     
-    df_all = data_cleanup.concat_df()
-    
+    # df_all = data_cleanup.concat_df()
     # data_cleanup.check_missing()
-    
+    data_cleanup.cbind()    
